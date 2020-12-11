@@ -1,3 +1,4 @@
+print('hello Arno ')
 '''Write a Python program to create a set.'''
 
 # set1 = {1,2,'hayk',2.5}
